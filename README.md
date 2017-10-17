@@ -1,4 +1,5 @@
 Using <b> distinct categories</b>, the model achieves ~96% validation and training accuracy. 
+![c1.png](https://raw.github.com/alexdotterweich/cnn_almost_working)
 
 Using <b> non-distinct categories</b>, the training accuracy is stuck at ~58% validation accuracy 
 while the training accuracy gradually increases to ~80% after 22 epochs.
